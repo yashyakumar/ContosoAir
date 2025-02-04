@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/yashyakumarganji/AZKeyVault/_apis/build/status%2Fyashyakumar.ContosoAir?branchName=master)](https://dev.azure.com/yashyakumarganji/AZKeyVault/_build/latest?definitionId=30&branchName=master)
 
 # Microsoft.Github CI Demo
 
